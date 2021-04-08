@@ -1,0 +1,27 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background: rgb(65,65,66);
+background: linear-gradient(90deg, rgba(65,65,66,1) 0%, rgba(104,104,107,1) 40%, rgba(150,155,156,1) 60%, rgba(196,201,203,0.6811099439775911) 80%, rgba(237,237,241,0.7931547619047619) 100%);
+    color: white;
+    border-radius: 20px;
+    padding-left: 10px;
+    
+}
+body{
+    width: 80%;
+    align-content: center;
+    padding-left: 50px;
+    color: lightslategray;
+}
+h1{
+    font-weight: bold;
+}
+li{
+    list-style: none;
+}
+
+h3{
+    
+}
